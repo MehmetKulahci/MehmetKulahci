@@ -1,7 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Mehmet Külahcı is here. 
     
-    <a href="#"><img src="https://camo.githubusercontent.com/f1bfd938b013254e92d2231337287395f05e34c65ef67faffe13bf20963f466d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d2b486925324325323077656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c653b49253230616d2532304157532532304465766f7073253230456e67696e6565723b536f6c7574696f6e2532304172636869746563743b2b3525323079656172732532306f662532304954253230657870657269656e63653b26666f6e743d416e746f6e2663656e7465723d747275652677696474683d363530266865696768743d31323026636f6c6f723d336233613330267643656e7465723d747275652673697a653d3435253232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20profile;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&amp;font=Anton&amp;center=true&amp;width=650&amp;height=120&amp;color=3b3a30&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;">
-    </a>
+<p align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20profile;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=3b3a30&vCenter=true&size=45%22"></a>  
+</p>
     
                 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-k%C3%BClahc%C4%B1/) 
